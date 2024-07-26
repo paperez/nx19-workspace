@@ -1,0 +1,11 @@
+{
+  "name": "@nx-19-workspace/app-1",
+  "version": "1.0.0",
+  "description": "Test app 1",
+  "scripts": {},
+  "private": true,
+  "engines": {
+    "node": "18.19.1",
+    "npm": "10.2.4"
+  }
+}
